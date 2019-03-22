@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369982161344",
+    "firebase_url": "https://jakirapplication.firebaseio.com",
+    "project_id": "jakirapplication",
+    "storage_bucket": "jakirapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369982161344:android:be3e2680eb024401",
+        "android_client_info": {
+          "package_name": "com.example.jakirapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369982161344-btq0tfltudprd74ibr65feein1iqvgkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jakirapplication",
+            "certificate_hash": "634f388f867b02bbd8c9bd39e6c582022f4fc728"
+          }
+        },
+        {
+          "client_id": "369982161344-8jugbbtprmmlfaqjin2orl7s925jsujr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8LMHyuDzSZTaE4nuUKn0KRwQxL8nxq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369982161344-8jugbbtprmmlfaqjin2orl7s925jsujr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
